@@ -1,0 +1,9 @@
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\bin\Debug\oop.TurtuleChallenge.exe.config
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\bin\Debug\oop.TurtuleChallenge.exe
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\bin\Debug\oop.TurtuleChallenge.pdb
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\obj\Debug\oop.TurtuleChallenge.csprojAssemblyReference.cache
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\obj\Debug\oop.TurtuleChallenge.csproj.CoreCompileInputs.cache
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\obj\Debug\oop.TurtuleChallenge.exe
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\obj\Debug\oop.TurtuleChallenge.pdb
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\bin\Debug\Data\Motions.txt
+D:\TrainingOpp\oop.TurtuleChallenge\oop.TurtuleChallenge\bin\Debug\Data\Config.ini
